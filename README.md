@@ -1,11 +1,6 @@
 Hi, I'm Omar Mostafa 👋
 Computer Science Student at the University of Illinois Chicago | Data Science & Applied Machine Learning
 
-Featured Projects · About Me · Technical Skills
-<!-- Add your LinkedIn and public résumé links here. Use your GitHub profile photo for your headshot. If you add a banner, use one of your own project screenshots. -->Featured Projects
-<!-- Link each project title to its public repository when available. -->- Interactive Real Estate Search · Built a web app that brings housing listings and crime data together on an interactive map so users can explore properties and their surrounding areas. Flask, SQLite
-- Soccer Match Outcome Prediction · Used pandas and NumPy to turn more than a million soccer event records into inputs for predicting match outcomes. Python, pandas, NumPy
-
 About Me
 My first computer science class in high school got me hooked on programming. I liked that I could start with an idea and build something that actually worked. Now I'm studying computer science at UIC, where I expect to graduate in May 2027.
 
@@ -14,6 +9,13 @@ Technical Skills
 - Languages: Python, SQL, C++, C, Java, R, JavaScript, HTML
 - Data analysis and mapping: pandas, NumPy, Dataiku, ArcGIS Pro
 - Application development: Flask, SQLite, JavaFX
+
+Featured Projects
+LinkedIn: www.linkedin.com/in/omar-mostafa-1595b6401
+<!-- Link each project title to its public repository when available. -->- Interactive Real Estate Search · Built a web app that brings housing listings and crime data together on an interactive map so users can explore properties and their surrounding areas. Flask, SQLite
+- Soccer Match Outcome Prediction · Used pandas and NumPy to turn more than a million soccer event records into inputs for predicting match outcomes. Python, pandas, NumPy 
+Link: https://github.com/OmarMostafaGit/Checkers-Multiplayer-Game
+- 
 
 Thanks for visiting my GITHUB ✨✨ 
 <!--
