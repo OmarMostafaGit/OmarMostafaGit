@@ -1,8 +1,9 @@
-Hi, I'm Omar Mostafa 👋
+**Hi, I'm Omar Mostafa 👋**
 CS Student @ UIC | GeoAI Intern | Full-Stack + Applied AI | Avid Reader
 LinkedIn: www.linkedin.com/in/omar-mostafa-1595b6401
 
-About Me
+**About Me**
+
 My first computer science class in high school got me hooked on programming. I liked that I could start with an idea and build something that actually worked. Now I'm studying computer science at UIC, where I expect to graduate in May 2027.
 
 I enjoy building projects that make data easier to explore and use. During my GeoAI internship, I used Python and ArcGIS Pro for geospatial analysis and mapping. I'm looking to build on that experience by applying machine learning to real-world problems. If you're curious about what I've built so far, start with the featured projects above.
