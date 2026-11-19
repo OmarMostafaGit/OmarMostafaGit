@@ -1,7 +1,7 @@
 **Hi, I'm Omar Mostafa 👋**
 CS Student @ UIC | GeoAI Intern | Full-Stack + Applied AI | Avid Reader
 
-**LinkedIn: **www.linkedin.com/in/omar-mostafa-1595b6401
+**LinkedIn:** www.linkedin.com/in/omar-mostafa-1595b6401
 
 **About Me**
 
